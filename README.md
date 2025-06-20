@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**SimonWtmn/SimonWtmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a second-year undergraduate student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), studying Mathematics, Physics, and Engineering.
+- 🔭 Passionate about science, problem-solving, and applying theory through code.
 
-Here are some ideas to get you started:
+## 💻 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧮 **LaTeX** (via Overleaf) – for scientific writing and documentation  
+- 🐍 **Python** – currently learning and using libraries like:
+  - `matplotlib` for data visualization  
+  - `pandas` for data manipulation  
+  - `manim` for mathematical animations  
+*(Always open to learning new tools and improving my coding skills)*
+
+## 📫 Contact
+
+- ✉️ Personal email: [simon.wittmann27@gmail.com](mailto:simon.wittmann27@gmail.com)  
+- 🏫 School email: [simon.wittmann@etu-upsaclay.fr](mailto:simon.wittmann@etu-upsaclay.fr)
