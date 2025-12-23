@@ -15,4 +15,4 @@
 ## 📫 Contact
 
 - ✉️ Personal email: [simon.wittmann27@gmail.com](mailto:simon.wittmann27@gmail.com)  
-- 🏫 School email: [simon.wittmann@etu-upsaclay.fr](mailto:simon.wittmann@etu-upsaclay.fr)
+- 🏫 School email: [simon.wittmann@universite-paris-saclay.fr](mailto:simon.wittmann@universite-paris-saclay.fr)
